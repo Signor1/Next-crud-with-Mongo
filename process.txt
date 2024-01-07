@@ -8,4 +8,12 @@ N.B: You must have Node installed in your system.
 
 3. Install React icons using `npm i react-icons`. You can still install any other icon of your choice if you don't like react-icons.
 
-4. 
+4. Create a navbar component with links that lead to;
+    4a. Home page 
+    4b. Add Topic page
+
+5. Create the list of topics that will have;
+    5a. Title
+    5b. Description 
+    5c. Icon for delete
+    5d. Icon for edit 
