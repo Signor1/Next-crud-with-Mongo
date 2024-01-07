@@ -15,5 +15,5 @@ N.B: You must have Node installed in your system.
 5. Create the list of topics that will have;
     5a. Title
     5b. Description 
-    5c. Icon for delete
-    5d. Icon for edit 
+    5c. Icon for delete (component)
+    5d. Icon for edit (Link)
