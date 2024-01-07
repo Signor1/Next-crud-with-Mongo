@@ -17,3 +17,5 @@ N.B: You must have Node installed in your system.
     5b. Description 
     5c. Icon for delete (component)
     5d. Icon for edit (Link)
+
+6. Create the `Add topic page` for creating new topics
