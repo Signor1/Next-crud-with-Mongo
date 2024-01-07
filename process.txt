@@ -1,0 +1,9 @@
+In this project, I am creating how to run CRUD functionalities in a NextJs application using MongoDB.
+Below are the steps:
+
+1. Start by creating a new NextJs project.
+N.B: You must have Node installed in your system.
+
+2. Install Mongoose using `npm i mongoose` for MongoDB connection.
+
+3. Install React icons using `npm i react-icons`. You can still install any other icon of your choice if you don't like react-icons.
