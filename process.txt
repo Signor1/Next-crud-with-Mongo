@@ -19,3 +19,6 @@ N.B: You must have Node installed in your system.
     5d. Icon for edit (Link)
 
 6. Create the `Add topic page` for creating new topics
+
+
+7. Create the `Edit topic page` for editing and updating topics. The page will pick the details (title and description) of a topic and edit them.
