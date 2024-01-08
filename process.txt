@@ -49,3 +49,5 @@ N.B: You must have Node installed in your system.
 i. the post topic request and insertion of topics into the database. 
 ii. the get topics request 
 iii. the delete topic request by id
+
+18. For the update of topics, since it is dynamic, we create a slug folder inside the topics folder. In this slug folder we create a route.js file for handling topic updates and gettin a single topic.
