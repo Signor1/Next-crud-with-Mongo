@@ -32,7 +32,7 @@ Before running this application, make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Signor1/Next-crud-with-Mongo.git
    ```
 
 2. Navigate to the project directory:
