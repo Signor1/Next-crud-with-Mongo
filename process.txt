@@ -51,3 +51,14 @@ ii. the get topics request
 iii. the delete topic request by id
 
 18. For the update of topics, since it is dynamic, we create a slug folder inside the topics folder. In this slug folder we create a route.js file for handling topic updates and gettin a single topic.
+
+
+19. create an async function that gets the data from the api display them in the TopicList component.
+
+20. Change the add topic to component to client side component for interactivity. Use state to manage the input values
+
+21. Create an async function for adding new topic 
+
+22. Create an async function for deleting a single topic
+
+23. Create an async function for updating a single topic
