@@ -42,4 +42,10 @@ N.B: You must have Node installed in your system.
 
 15. After, Create a folder in your project directory. Name it libs and create a js file inside for database connection. 
 
-16. After writing the code for database connect, next is to create a new folder in your project directory for database models. The folder will contain a js file for model definitions 
+16. After writing the code for database connect, next is to create a new folder in your project directory for database models. The folder will contain a js file for model definitions
+
+17. Create an api folder inside the app folder. create topics folder inside the api folder. And lastly create a route.js file inside the topics folder. This route.js file will process the following:
+
+i. the post topic request and insertion of topics into the database. 
+ii. the get topics request 
+iii. the delete topic request by id
