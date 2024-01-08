@@ -22,3 +22,22 @@ N.B: You must have Node installed in your system.
 
 
 7. Create the `Edit topic page` for editing and updating topics. The page will pick the details (title and description) of a topic and edit them.
+
+
+///Backend Integrations
+
+8. Creating an account in Mongo Atlas 
+
+9. Create a new project after creating account 
+
+10. Build or create your database 
+
+11. Create a username and password to the database 
+
+12. Copy the username and password to be used as environment variables 
+
+13. After the setup, click on `Finish` and click on `connect`. Choose Mongo for VsCode and copy the url.
+
+14. Paste the url inside your .env and edit it while assigning it to a variable
+
+15. After, Create a folder in your project directory. Name it libs and create a js file inside for database connection. 
