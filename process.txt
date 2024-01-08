@@ -60,3 +60,5 @@ iii. the delete topic request by id
 21. Create an async function for adding new topic 
 
 22. Create an async function for deleting a single topic
+
+23. Create an async function for updating a single topic
