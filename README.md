@@ -2,6 +2,8 @@
 
 This project is a basic CRUD (Create, Read, Update, Delete) application built using Next.js, MongoDB for data storage, and Tailwind CSS for styling.
 
+<img src="https://github.com/Signor1/Next-crud-with-Mongo/blob/6007f852842b66628abfa206f733d0dac57008b0/Screenshot%202024-01-08%20at%209.34.41%20PM.png"/>
+
 ## Table of Contents
 
 - [Features](#features)
