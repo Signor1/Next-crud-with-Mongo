@@ -41,13 +41,13 @@ const TopicLists = async () => {
                                 <div className='text-base'>{topic.description}</div>
                             </div>
                             <div className='flex gap-3'>
-                                <RemoveBtn />
+                                <RemoveBtn id={topic._id} />
                                 <Link href={`/editTopic/${topic._id}`}>
                                     <HiPencilAlt size={20} />
                                 </Link>
                             </div>
                         </div>
-                        <div className='flex justify-between bg-purple-600 text-white text-sm items-center px-6 py-3'>
+                        <div className='flex justify-between bg-purple-600 text-white text-xs items-center px-6 py-3'>
                             <span>Created At: {formatDate(topic.createdAt)}</span>
                             <span>Updated At: {formatDate(topic.updatedAt)}</span>
                         </div>
